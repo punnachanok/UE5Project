@@ -28,3 +28,6 @@ private:
 	UPROPERTY(EditAnywhere);
 	class UStaticMeshComponent* MeshComp;
 };
+
+// edit in test
+// add more comment in test
